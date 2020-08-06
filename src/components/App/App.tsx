@@ -5,7 +5,7 @@ import Footer from "../Footer/Footer";
 import {config} from "./App.config";
 import {BrowserRouter, Route} from "react-router-dom";
 
-const App = () => <BrowserRouter>
+const App = () => <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div className="App">
         <Header/>
         <div style={{marginTop: 110, marginLeft: 50, marginRight: 50, marginBottom: 50}}>
