@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/every-ones-kitchen-app/static/css/main.ecbce28f.chunk.css",
-    "main.js": "/every-ones-kitchen-app/static/js/main.eda0930b.chunk.js",
-    "main.js.map": "/every-ones-kitchen-app/static/js/main.eda0930b.chunk.js.map",
+    "main.js": "/every-ones-kitchen-app/static/js/main.f604adfb.chunk.js",
+    "main.js.map": "/every-ones-kitchen-app/static/js/main.f604adfb.chunk.js.map",
     "runtime-main.js": "/every-ones-kitchen-app/static/js/runtime-main.759c7e36.js",
     "runtime-main.js.map": "/every-ones-kitchen-app/static/js/runtime-main.759c7e36.js.map",
     "static/css/2.309d8041.chunk.css": "/every-ones-kitchen-app/static/css/2.309d8041.chunk.css",
     "static/js/2.3f609a77.chunk.js": "/every-ones-kitchen-app/static/js/2.3f609a77.chunk.js",
     "static/js/2.3f609a77.chunk.js.map": "/every-ones-kitchen-app/static/js/2.3f609a77.chunk.js.map",
     "index.html": "/every-ones-kitchen-app/index.html",
-    "precache-manifest.a69654822975fa2ce674cc21f265d4cb.js": "/every-ones-kitchen-app/precache-manifest.a69654822975fa2ce674cc21f265d4cb.js",
+    "precache-manifest.a9bca5fa79c10dd83ae9530df762cccc.js": "/every-ones-kitchen-app/precache-manifest.a9bca5fa79c10dd83ae9530df762cccc.js",
     "service-worker.js": "/every-ones-kitchen-app/service-worker.js",
     "static/css/2.309d8041.chunk.css.map": "/every-ones-kitchen-app/static/css/2.309d8041.chunk.css.map",
     "static/css/main.ecbce28f.chunk.css.map": "/every-ones-kitchen-app/static/css/main.ecbce28f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.309d8041.chunk.css",
     "static/js/2.3f609a77.chunk.js",
     "static/css/main.ecbce28f.chunk.css",
-    "static/js/main.eda0930b.chunk.js"
+    "static/js/main.f604adfb.chunk.js"
   ]
 }

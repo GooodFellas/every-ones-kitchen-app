@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d90af6734e54437d71606ba4945109f3",
+    "revision": "5937f87ff9ad2f8f16ff6074d4120b2a",
     "url": "/every-ones-kitchen-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/every-ones-kitchen-app/static/css/2.309d8041.chunk.css"
   },
   {
-    "revision": "fa1e7dce82102ba5ac4e",
+    "revision": "a4fc516dff65b0270425",
     "url": "/every-ones-kitchen-app/static/css/main.ecbce28f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/every-ones-kitchen-app/static/js/2.3f609a77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa1e7dce82102ba5ac4e",
-    "url": "/every-ones-kitchen-app/static/js/main.eda0930b.chunk.js"
+    "revision": "a4fc516dff65b0270425",
+    "url": "/every-ones-kitchen-app/static/js/main.f604adfb.chunk.js"
   },
   {
     "revision": "157d3e74906ea7e2fac0",

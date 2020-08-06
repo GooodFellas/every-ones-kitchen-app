@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/every-ones-kitchen-app/precache-manifest.a69654822975fa2ce674cc21f265d4cb.js"
+  "/every-ones-kitchen-app/precache-manifest.a9bca5fa79c10dd83ae9530df762cccc.js"
 );
 
 self.addEventListener('message', (event) => {
