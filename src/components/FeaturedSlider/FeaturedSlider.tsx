@@ -1,8 +1,8 @@
-import Carousel from "react-material-ui-carousel";
 import React from "react";
 import FeaturedBanner from "../FeaturedBanner/FeaturedBanner";
 
 import './FeaturedSlider.css'
+import Slider from "react-slick";
 
 const items = [
     {
@@ -61,25 +61,24 @@ const items = [
     }
 ]
 
+const settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+};
 
 const FeaturedSlider = () =>
     <div>
-        <Carousel
-            className="slider"
-            autoPlay={true}
-            animation={"slide"}
-            indicators={true}
-            timeout={500}
-            navButtonsAlwaysVisible={false}
-            activeIndicatorProps={{className: '', style: {}}}
-            indicatorProps={{className: '', style: {}}}
-        >
+        <Slider {...settings}>
             {
                 items.map((item, index) => {
                     return <FeaturedBanner item={item} key={index} contentPosition={item.contentPosition}/>
                 })
             }
-        </Carousel>
+        </Slider>
     </div>
 
 export default FeaturedSlider;
